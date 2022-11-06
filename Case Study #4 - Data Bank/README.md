@@ -1,8 +1,3 @@
-# [8-Week SQL Challenge](https://github.com/ndleah/8-Week-SQL-Challenge)
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/ndleah/8-Week-SQL-Challenge)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
 # 🪙 Case Study #4 - Data Bank
 <p align="center">
 <img src="https://github.com/ndleah/8-Week-SQL-Challenge/blob/main/IMG/org-4.png" width=40% height=40%>
@@ -259,4 +254,3 @@ ORDER BY month_part;
 </details>
 
 ---
-<p>&copy; 2021 Leah Nguyen</p>
