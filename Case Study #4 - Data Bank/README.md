@@ -93,8 +93,6 @@ This table stores all customer deposits, withdrawals and purchases made using th
 4. How many days on average are customers reallocated to a different node?
 5. What is the median, 80th and 95th percentile for this same reallocation days metric for each region?
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution-971901?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/1.%20Pizza%20Metrics)
-
 ### **B. Customer Transactions**
 
 1. What is the unique count and total amount for each transaction type?
@@ -103,7 +101,6 @@ This table stores all customer deposits, withdrawals and purchases made using th
 4. What is the closing balance for each customer at the end of the month?
 5. What is the percentage of customers who increase their closing balance by more than 5%?
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution-971901?style=for-the-badge&logo=GITHUB)](https://github.com/ndleah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/2.%20Runner%20and%20Customer%20Experience)
 
 ## 🚀 Solutions
 ### **A. Customer Nodes Exploration**
