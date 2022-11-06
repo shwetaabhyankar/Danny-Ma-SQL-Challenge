@@ -5,14 +5,6 @@
 > 
 > All case study's requirements and resources are available on the challenge [website](https://8weeksqlchallenge.com).
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
-</p>
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/check-it-out.svg">
-</p>
 
 ## 📕  Table Of Contents
 * [🍜 Case Study #1 - Danny's Diner](#-case-study-1---dannys-diner)
