@@ -1,7 +1,3 @@
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
 
 # [8-Week SQL Challenge](https://8weeksqlchallenge.com) <img src="https://s3.amazonaws.com/thinkific-import/357412/n0nS0vA3RmOtzsH99jyf_Data_With_Danny_Round_Logo_png" align="right" width="120" />
 
@@ -36,9 +32,6 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-1/).
 
-
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_1-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%231%20-%20Danny's%20Diner)
-
 ---
 
 ## 🍕 Case Study #2 - Pizza Runner
@@ -53,9 +46,6 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-2/).
 
-
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_2-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%232%20-%20Pizza%20Runner)
-
 ---
 
 ## 🥑 Case Study #3 - Foodie-Fi
@@ -69,8 +59,6 @@ Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-3/).
-
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_3-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%233%20-%20Foodie-Fi)
 
 ---
 
@@ -90,21 +78,4 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-4/).
 
-[![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_4-971901?style=for-the-badge&logo=GITHUB)](/Case%20Study%20%234%20-%20Data%20Bank)
-
 ---
-
-## ✨ Contribution
-
-Contributions, issues, and feature requests are welcome!
-
-To contribute to this project, see the GitHub documentation on **[creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)**.
-
----
-
-## 👏 Support
-
-Give a ⭐️ if you like this project!
-___________________________________
-
-<p>&copy; 2021 Leah Nguyen</p>
