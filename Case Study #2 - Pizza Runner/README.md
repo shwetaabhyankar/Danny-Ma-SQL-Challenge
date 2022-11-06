@@ -1,7 +1,3 @@
-# [8-Week SQL Challenge]
-
-
-
 # 🍕 Case Study #2 - Pizza Runner
 <p align="center">
 <img src="https://github.com/ndleah/8-Week-SQL-Challenge/blob/main/IMG/org-2.png" width=40% height=40%>
