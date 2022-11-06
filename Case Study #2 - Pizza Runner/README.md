@@ -1,4 +1,4 @@
-# [8-Week SQL Challenge](https://github.com/ndleah/8-Week-SQL-Challenge)
+# [8-Week SQL Challenge]
 
 
 
