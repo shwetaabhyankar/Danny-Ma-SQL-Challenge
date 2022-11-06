@@ -194,7 +194,6 @@ Data issues in the existing schema include:
 - Converting blanks, ```'null'``` and ```NaN``` into null values for cancellation
 - Saving the transformations in a temporary table
 
-> ⚠️ Access [here](https://github.com/ndleah/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/table-transform.sql) to view full solution.
 
 **Result:**
 
