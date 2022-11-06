@@ -1,6 +1,3 @@
-# [8-Week SQL Challenge]
-
-
 # 🥑 Case Study #3 - Foodie-Fi
 <p align="center">
 <img src="https://github.com/ndleah/8-Week-SQL-Challenge/blob/main/IMG/org-3.png" width=40% height=40%>
