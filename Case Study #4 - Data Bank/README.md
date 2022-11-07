@@ -1,6 +1,6 @@
 # 🪙 Case Study #4 - Data Bank
 <p align="center">
-<img src="https://github.com/ndleah/8-Week-SQL-Challenge/blob/main/IMG/org-4.png" width=40% height=40%>
+<img src="https://github.com/shwetaabhyankar/Danny-Ma-SQL-Challenge/blob/main/IMG/org-4.png" width=40% height=40%>
 
 
 ## 📕 Table Of Contents
