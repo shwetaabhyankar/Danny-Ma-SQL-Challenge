@@ -361,7 +361,7 @@ If we combine the condition from [**question 9**](#q9-if-each-1-spent-equates-to
 
 I have created a timeline as illustration for wheareas we apply the conditions:
 <p align="center">
-<img src="https://github.com/ndleah/8-Week-SQL-Challenge/blob/main/IMG/timeline.png" width=100% height=100%>
+<img src="https://github.com/shwetaabhyankar/Danny-Ma-SQL-Challenge/blob/main/IMG/timeline.png" width=100% height=100%>
 
 ### **Step 1:**
 
