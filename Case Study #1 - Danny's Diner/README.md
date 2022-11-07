@@ -1,6 +1,4 @@
 # 🍜 Case Study #1 - Danny's Diner
-<p align="center">
-<img src="/IMG/org-1.png" width=40% height=40%>
 
 ## 📕 Table Of Contents
 * 🛠️ [Problem Statement](#problem-statement)
